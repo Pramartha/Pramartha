@@ -1,4 +1,4 @@
-### `Hello`👋 , I'm Pramartha.
+# `Hello`👋 , I'm Pramartha.
 
 ![](https://komarev.com/ghpvc/?username=Pramartha&color=00a0a0&style=plastic)
 
@@ -26,8 +26,8 @@
 
 ## 🔥 Github Stats
 
-  <a href="https://github.com/Pramartha"><img width="40%" src="https://github-readme-stats.vercel.app/api?username=Pramartha&theme=radical&title_color=ff3068?"></a>
-  <a href="https://github.com/Pramartha"><img width="40%" src="http://github-readme-streak-stats.herokuapp.com/?user=Pramartha&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+  <a href="https://github.com/Pramartha"><img width="46%" src="https://github-readme-stats.vercel.app/api?username=Pramartha&theme=radical&title_color=ff3068?"></a>
+  <a href="https://github.com/Pramartha"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Pramartha&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
