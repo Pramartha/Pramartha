@@ -18,7 +18,7 @@
 ## 🤝 Connect With Me
     
 [![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/pramartha_2004)
-[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:pramartha456@gmail.com)
+[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:pramarthamahottama@gmail.com)
 
 <br>
 
