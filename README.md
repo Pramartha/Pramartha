@@ -11,7 +11,7 @@
 
 ## ✌️ I am Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,arduino,c,mysql,mongodb,py,dart,flutter,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,arduino,c,mysql,mongodb,py,dart,flutter,laravel,kotlin)](https://skillicons.dev)
 
 <br>
 
